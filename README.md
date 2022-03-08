@@ -26,4 +26,3 @@ Final Assignment:
 * Uses Viterbi training to find improved parameter estimates for the transition probabilities, holding the emission and initiation probabilities fixed at specified values
 * Output: 1) name and first line of the .fna file, 2) model information (i.e. number of states and segments, and new probability values) for each of the 10 iterations, and 3) the list of G+C rich segments after the final round of Viterbi training, sorted by genomic position 
     
-*** All code written in python
